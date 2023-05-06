@@ -1,16 +1,16 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 	
 <item>	
 <title>[COLOR white][B] O Albergue (2006)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=OVQwmX4hMHo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=OVQwmX4hMHo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6de59d723ca7d9580369f31d0955726b4ca83218$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue - HD DUB[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fb3d0112ca4799ef67a9b471f6aec46dfae35cd$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue - FHD LEG[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/O.Albergue/LS-O.Albergue.1-2006.SD.Dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Albergue - SD DUB[/B][/COLOR]</link>	
@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B] O Albergue 2 (2007)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=lW8Q5owSRmA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue 2[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=lW8Q5owSRmA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue 2[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb967e8201869894682fc02c2c6d83a19298893e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 2 - HD DUB [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38033b89eb0b7c5d5c5d911e47e085631ccb404c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 2 - HD LEG[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/O.Albergue/LS-O.Albergue.2-2007.SD.Dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Albergue 2 - SD DUB[/B][/COLOR]</link>	
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B] O Albergue 3 (2011)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=v_t0mN2aKL4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue 3[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=v_t0mN2aKL4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue 3[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2399015fa2375e0ed8ba7b089a29b8ca41fa5ad4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 3 - HD DUB [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ef730d4aa471d37c39ad97be93ac3883a98d87d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Albergue 3 - HD LEG[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/O.Albergue/LS-O.Albergue.3-2011.SD.Dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Albergue 3 - FHD DUB[/B][/COLOR]</link>	
@@ -47,24 +47,33 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
