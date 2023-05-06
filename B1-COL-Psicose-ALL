@@ -1,16 +1,16 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 	
 <item>	
 <title>[COLOR white][B]Psicose (1960) O Clássico[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=NG3-GlvKPcg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Psicose[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=NG3-GlvKPcg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Psicose[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:313b2b003d24c696cfef58507a584acd01985176$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Psicose - HD LEG [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a7c5121b9f7f8003999a5e2809693b56c45d81$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Psicose - FHD DUAL[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Psicose/LS-Psicose.0-1960.FHD.DUAL.LFX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Psicose - FHD DUAL LEG FIX[/B][/COLOR]</link>	
@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]Psicose 1 (1998)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=KykPIIPWUVU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Psicose 1[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=KykPIIPWUVU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Psicose 1[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1215bb8e7f490885c13bd231f08663a1f0cb3222$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Psicose 1 - HD DUAL [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff7a9ee6efdd4d6f0fc50362b77e277adeb4e17f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Psicose 1 - FHD LEG[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Psicose/LS-Psicose.1-1998.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Psicose 1 - FHD DUAL[/B][/COLOR]</link>	
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]Psicose 2 (1983)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=LKprv08HI0s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Psicose 2[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=LKprv08HI0s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Psicose 2[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc0266dd5799d036c8d6cd24c8bd01a8bbe6083e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Psicose 2 - HD DUAL [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce16da4f9729eebf0777f0a024e45200fc33beab$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Psicose 2 - FHD DUAL[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Psicose/LS-Psicose.2-1983.FHD.DUAL.LFX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Psicose 2 - FHD DUAL LEG FIX[/B][/COLOR]</link>	
@@ -49,7 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]Psicose 3 (1986)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=GoVH_SJgMKY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Psicose 3[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=GoVH_SJgMKY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Psicose 3[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf1c9e70cfcaaeef510a95776991e0629a0904c9$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Psicose 3 - HD DUAL [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba4d0f3ff74723a9fdb35a4b892cb4307c6aa984$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Psicose 3 - FHD DUAL[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Psicose/LS-Psicose.3-1986.FHD.DUAL.LFX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Psicose 3 - FHD DUB[/B][/COLOR]</link>	
@@ -62,7 +62,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]Psicose 4 - A Revelação (1990)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=GoVH_SJgMKY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Psicose 4 - A Revelasao[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=GoVH_SJgMKY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Psicose 4 - A Revelasao[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daa287659b09be8d8fdf60f0ebd25f2f513481be$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Psicose 4 - A Revelasao - HD LEG[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daa287659b09be8d8fdf60f0ebd25f2f513481be$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Psicose 4 - A Revelasao - FHD DUB[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Psicose/LS-Psicose.4-A.Revelasao.1990.FHD.DUAL.LFX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Psicose 4 - A Revelasao - FHD DUB[/B][/COLOR]</link>	
@@ -73,25 +73,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 	
