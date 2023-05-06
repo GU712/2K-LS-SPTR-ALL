@@ -1,16 +1,16 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 	
 <item>	
 <title>[COLOR white][B]O Homem nas Trevas 1 (2016)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=76yBTNDB6vU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Homem nas Trevas 1[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=76yBTNDB6vU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Homem nas Trevas 1[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66313cd154c1f1944e5584c20e41f08da294bcb9$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem nas Trevas 1 - HD DUAL[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2cd59dbfcd80e10393d608fae7a126b0b409f4d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem nas Trevas 1 - FHD DUAL[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Homem.nas.Trevas/LS-O.Homem.nas.Trevas.1-2016.HD.DUAL-LFX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>	
@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]O Homem nas Trevas 2 (2021)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=cbz9_K3mw1E$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Homem nas Trevas 2[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=cbz9_K3mw1E$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Homem nas Trevas 2[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:866baaf0ec25763fe9d69df09d1b5a55e9f26a41$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem nas Trevas 2 - HD LEG [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2zh5iipzavv3mxc4yfeqlwaskdkkrtxy$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem nas Trevas 2 - FHD DUAL[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Homem.nas.Trevas/LS-O.Homem.nas.Trevas.2-2021.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Homem nas Trevas 2 - HD DUB[/B][/COLOR]</link>	
@@ -34,25 +34,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 	
