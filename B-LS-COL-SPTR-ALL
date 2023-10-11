@@ -20,6 +20,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]A Coisa (2 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B8-COL-The.Thing-ALL</externallink>
+<thumbnail>https://i.ibb.co/9hwKZ9n/COL-THETHING-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/PCkC2Yx/COL-THETHING-FAN-ALL.png</fanart>
+<info>Assista aqui os filmes da coleção The Thing 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (1982 e 2011)[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]A Orfa (02 Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B11-COL-A.Orfa-ALL</externallink>
 <thumbnail>https://i.ibb.co/yW76Sc0/COL-ORFA-ICON-ALL.png</thumbnail>
@@ -222,14 +236,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Coisa (2 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B8-COL-The.Thing-ALL</externallink>
-<thumbnail>https://i.ibb.co/9hwKZ9n/COL-THETHING-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/PCkC2Yx/COL-THETHING-FAN-ALL.png</fanart>
-<info>Assista aqui os filmes da coleção The Thing 
-[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
-[COLOR orange][B]2 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (1982 e 2011)[/B][/COLOR]</info>
+<name>[COLOR white][B]Tubarão (04 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B13-COL-Tubarao-ALL</externallink>
+<thumbnail>https://i.ibb.co/HKdy75K/COL-TUBARAO-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/S34Kq3j/COL-TUBARAO-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Tubarão
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]SUSPENSE E TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Tubarão.
+Não encontrou o que queria ?
+Solicite ao SUPORTE AO USUÁRIO .
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
