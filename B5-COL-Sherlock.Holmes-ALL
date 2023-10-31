@@ -8,31 +8,35 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 	
-<item>	
-<title>[COLOR white][B] Sherlock Holmes (2009)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.tubemusic/?video_id=EQS7bRXrr5g$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sherlock Holmes[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bec658864a9d2493f23c6ed5ef5d7610ca05d25$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes - HD DUAL[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae65695c754254c4c063e9599c07939587f32234$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/She.Holmes/LS-Sherlock.Holmes.1-2009.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sherlock Holmes - HD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NFWINCP0Ej8gWNbzKI72AImAg7.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg</fanart>	
-<info>O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.</info>	
-<genre>SUSPENSE E TERROR</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>	
-<title>[COLOR white][B] Sherlock Holmes: O Jogo de Sombras (2011)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.tubemusic/?video_id=uFDpn-jBkzg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sherlock Holmes: O Jogo de Sombras[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dabb12f32cef0683d8817808f92ee8438047f77$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - HD DUAL [/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffa8b155e9a67f95c4c215aa6e4afee301f016b8$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/She.Holmes/LS-S.H.2-O.jogo.das.Sombras.2011.FHD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras - FHD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7z498BJCpedGpCn8KcwaB0bbX48.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg</fanart>	
-<info>Há um novo mentor criminoso em geral e não apenas ele é o equivalente intelectual de Holmes, mas sua capacidade para o mal e a falta de consciência pode lhe dar uma vantagem sobre o detetive.</info>	
-<genre>SUSPENSE E TERROR</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sherlock Holmes (2009) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/11SPTR-CL/She.Holmes/LS-2009.Sherlock.Holmes.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/19ZNLpF6ibwcFIynGb65X3Z1bnL.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Sherlock Holmes
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2009
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sherlock Holmes: O Jogo de Sombras (2011) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/11SPTR-CL/She.Holmes/LS-2011.O.Jogo.de.Sombras.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3huojZMBkUWys5xczqJYlCrSNFR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Sherlock Holmes: O Jogo de Sombras
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2011
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Há um novo mentor criminoso em geral e não apenas ele é o equivalente intelectual de Holmes, mas sua capacidade para o mal e a falta de consciência pode lhe dar uma vantagem sobre o detetive.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
 <title>[COLOR black].[/COLOR]</title>				
@@ -55,7 +59,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
