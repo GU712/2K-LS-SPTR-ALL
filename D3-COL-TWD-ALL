@@ -1,7 +1,29 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Walking Dead (Séries)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3-COL-TWD-ALL</externallink>
+<thumbnail>https://i.ibb.co/ZzGGDDV/COL-TWD-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/9hRHZBR/COL-TWD-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]The Walking Dead
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+PILOTO PARA ADICIONAR NOVA PAGE SELETIVA DE ESPECIAIS OU COLEÇÕES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D2-COL-TWD-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -13,7 +35,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Walking Dead (2010-2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B7B1-SRS-The.Walking.Dead-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3B1-SRS-TWD.2010-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/fOPL4PhvxzFk6LAWHveVFTlHvO6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sZdtZAYlXGTwAzCei70jQw6b7Bh.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -31,7 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fear the Walking Dead (2015-2023) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B7B2-SRS-Fear.The.Walking.Dead-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3B2-SRS-TWD.Fear.TWD.2015-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/8NvXF5CDC2wYnXJbNck0UFc9XVG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ptmXSvN8JpXUEr5iqtPeqnIa8Ph.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -49,7 +71,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Walking Dead: Um Novo Universo (2020-2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B7B8-SRS-TWD.Um.Novo.Universo.2020-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3B3-SRS-TWD.Um.Novo.Universo.2020-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/vaUcX3gGsdr086S8vIGowl3yOFn.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pLVrN9B750ehwTFdQ6n3HRUERLd.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -67,7 +89,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Contos de Walking Dead (2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B7B7-SRS-TWD.Tales.2022-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3B4-SRS-TWD.Tales.2022-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/zRMUHvTgQ79zteQafNI46Nd9XFm.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uFU4ItwbxHnFHxntb76ASnZbWTN.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -85,7 +107,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Daryl Dixon (2023) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B7B4-SRS-Darly.Dixon-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3B5-SRS-TWD.Daryl.Dixon.2023-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/3eS1wt1Sa6lGudSpZqQqWPboE2B.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/a78US3gqAwUd65gtkCauazy6Ms7.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -103,7 +125,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Walking Dead: Dead City (2023) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B7B6-SRS-TWD.Dead.City.2023-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3B6-SRS-TWD.Dead.City.2023-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/7gaq7sOWLa70fzUxdM21hf3RWP7.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7TozQsub8fBMDz2iZxJPgVgnMRv.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -140,7 +162,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3-COL-TWD-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D2-COL-TWD-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </channel>
@@ -150,7 +172,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3-COL-TWD-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D2-COL-TWD-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -246,3 +268,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
