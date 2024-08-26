@@ -176,7 +176,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "C"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS3[COLOR yellow] -> [COLOR white]Contos da Cripta (1989-1996) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C7-SRS-Contos.da.Cripta.1989-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/q7zDnrLffXBejrCPmFDnHwkJC9D.jpg</thumbnail>
