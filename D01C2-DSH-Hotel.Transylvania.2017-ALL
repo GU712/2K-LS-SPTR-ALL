@@ -1,171 +1,211 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01C-SEL-DSH-Vampiros-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Castlevania (2017-2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01C1-DSH-Castlevania.2017-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zSV78u29RB5PAOfwE8liVJcxKc1.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Castlevania
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2021
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 32 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um caçador de vampiros luta para salvar uma cidade sitiada por um exército de criaturas controladas pelo próprio Drácula. Inspirado no clássico videogame.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hotel Transylvania: A Série (2017-2019) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01C2-DSH-Hotel.Transylvania.2017-ALL</externallink>
+<item>	
+<title>[COLOR orange][B]Hotel Transylvania: A Série[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/aZs46FyTwM4phRC9meC4faW7MoS.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Hotel Transylvania: A Série
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2019
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 110 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A filha adolescente de Drácula, Mavis, se junta com seus amigos e embarca em divertidas aventuras no Hotel Transylvania, enquanto seu pai está ausente do negócio.
-[/COLOR]</info>
-</channel>
-</channels>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]Curtas (2017) 10 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01C-SEL-DSH-Vampiros-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<item><title>[COLOR orange][B]LS-T00E01[COLOR yellow] -> [COLOR white]Basquete Monstruoso[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T00/LS-T00E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T00E02[COLOR yellow] -> [COLOR white]Fazendo a Mala[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T00/LS-T00E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T00E03[COLOR yellow] -> [COLOR white]O Programa da Mavis e da Wendy (Parte 1)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T00/LS-T00E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T00E04[COLOR yellow] -> [COLOR white]O Programa da Mavis e da Wendy (Parte 2)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T00/LS-T00E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T00E05[COLOR yellow] -> [COLOR white]O Programa da Mavis e da Wendy (Parte 3)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T00/LS-T00E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T00E06[COLOR yellow] -> [COLOR white]Podcast da Mavis (Parte 1)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T00/LS-T00E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T00E07[COLOR yellow] -> [COLOR white]Podcast da Mavis (Parte 2)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T00/LS-T00E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T00E08[COLOR yellow] -> [COLOR white]Podcast da Mavis (Parte 3)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T00/LS-T00E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T00E09[COLOR yellow] -> [COLOR white]Podcast da Mavis (Parte 4)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T00/LS-T00E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T00E10[COLOR yellow] -> [COLOR white]Quem é a Chefa[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T00/LS-T00E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2017) 26 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Chegou a Cutucadora de Nariz + Esconde e Guincha[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Sexta-Feira da Uruca + Mãos no Aro[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Espantando Insetos + Como Resolver um Problema como a Medusa[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]As Aventuras da Babá Vampiresca + Catarrobol[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Grande e Alta Wendy + Presa-Sósias[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Ovo Choco + Hotel Pensylvania[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Café da Manhã da Lydia + O Problema da Wendy[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]A Façanha do Hank + E o Blob[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Clube da Praga + Caixão Desvairado[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Um Susto para Relembrar + Hank e o Menino de Verdade[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Enfaixados + Virando Klaus[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white] Velas + Para Senão Minha Mamãe Múmia Grita[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]A Lenda do Tripa de Abóbora[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Mágica e Risos + Cara, Cadê o Meu Alho[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]O Bater das Asas + Polegares e Dedões[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Lavagem Cerebral + Maldição Capilar[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Solta o Som + Anatomia do Nojo[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E17.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]O Susto Depois do Natal Monstro[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E18.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Saia João Pestana + Viagem pro Atropelado[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E19.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Az Indomável + Tomates Maus Fritos[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E20.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Quatro Monstros e Um Funeral + Arco-íris Mortal[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E21.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]De Drácula Para o Futuro[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E22.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Histórias Macabras + Alguns Monstros Bons[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E23.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Destino Mumificado + Irmãos Desenfaixados[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E24.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Festa Arrepiante + Frankenstein e Filho[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E25.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]Presas de Debutante[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Vampiros/DSH/Hotel.Transylvania.2017/T01/LS-T01E26.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pBPX4Az3kt8nH7xy3GnJ3rxiGTe.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01C-SEL-DSH-Vampiros-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE VAMPIROS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01-COL-Vampiros-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SUSPENSE E TERROR[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/1-LS-SEL-SPTR-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
