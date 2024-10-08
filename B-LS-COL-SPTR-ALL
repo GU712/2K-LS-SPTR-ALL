@@ -20,7 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Coisa (03 Filmes)[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Coisa (02 Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B8-COL-The.Thing-ALL</externallink>
 <thumbnail>https://i.ibb.co/9hwKZ9n/COL-THETHING-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/PCkC2Yx/COL-THETHING-FAN-ALL.png</fanart>
@@ -100,7 +100,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D1A-FLM-Blade-ALL</externallink>
 <thumbnail>https://i.ibb.co/TLbR5G9/COL-BLADE-ICON-FLM-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/0n3fqr3/COL-BLADE-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
+<info>[COLOR white]Conheça a seção de filmes: 
 [B]Blade
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
@@ -158,7 +158,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Dracula (11 Filmes)[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Dracula (12 Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B10-COL-Dracula-ALL</externallink>
 <thumbnail>https://i.ibb.co/WyFgDK8/COL-DRACULA-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/V9c9p2g/COL-DRACULA-FAN-ALL.png</fanart>
@@ -515,6 +515,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "V"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vampiros (06 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01A1-FLM-Vampiros-ALL</externallink>
+<thumbnail>https://i.ibb.co/ZmzwNV3/COL-VAMPIRO-ICON-FLM-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/BwnFPLq/COL-VAMPIRO-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Vampiros
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "X"				
