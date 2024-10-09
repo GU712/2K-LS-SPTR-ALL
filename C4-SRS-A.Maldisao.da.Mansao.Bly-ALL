@@ -1,45 +1,67 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-		
-<item>		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Maldição da Mansão Bly[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=ZCMnPjfKBVI</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart>		
-<info>Assista ao trailer</info>		
-<genre>SUSPENSE E TERROR</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Maldição da Mansão Bly (2020) - T01 - FHD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 09 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Maldisao.Mansao.Bly/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Mansao [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Maldisao.Mansao.Bly/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]As Criansas [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Maldisao.Mansao.Bly/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Ecos Do Passado (Parte 1) [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Maldisao.Mansao.Bly/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Perdas E Culpa [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Maldisao.Mansao.Bly/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Altar Dos Mortos [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Maldisao.Mansao.Bly/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Cantos Secretos [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Maldisao.Mansao.Bly/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Ecos Do Passado (Parte 2) [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Maldisao.Mansao.Bly/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Roupas E Joias [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Maldisao.Mansao.Bly/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]A Fera Na Selva [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart>		
-<info>Uma babá adentra um mundo de segredos sinistros neste romance gótico do criador de "A Maldição da Residência Hill".</info>		
-<genre>SUSPENSE E TERROR</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>	
+<title>[COLOR orange][B]A Maldição da Mansão Bly[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2020) 09 EPs - FHD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]A Mansao[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Mansao.Bly.2020/LS-T01E01.mkv</link>
+<thumbnail><CAPA></thumbnail><fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]As Criansas[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Mansao.Bly.2020/LS-T01E02.mkv</link>
+<thumbnail><CAPA></thumbnail><fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Ecos Do Passado (Parte 1)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Mansao.Bly.2020/LS-T01E03.mkv</link>
+<thumbnail><CAPA></thumbnail><fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Perdas E Culpa[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Mansao.Bly.2020/LS-T01E04.mkv</link>
+<thumbnail><CAPA></thumbnail><fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]O Altar Dos Mortos[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Mansao.Bly.2020/LS-T01E05.mkv</link>
+<thumbnail><CAPA></thumbnail><fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Cantos Secretos[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Mansao.Bly.2020/LS-T01E06.mkv</link>
+<thumbnail><CAPA></thumbnail><fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Ecos Do Passado (Parte 2)[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Mansao.Bly.2020/LS-T01E07.mkv</link>
+<thumbnail><CAPA></thumbnail><fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Roupas E Joias[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Mansao.Bly.2020/LS-T01E08.mkv</link>
+<thumbnail><CAPA></thumbnail><fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]A Fera Na Selva[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Mansao.Bly.2020/LS-T01E09.mkv</link>
+<thumbnail><CAPA></thumbnail><fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -60,8 +82,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -69,5 +90,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-		
-		
