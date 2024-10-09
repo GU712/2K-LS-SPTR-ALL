@@ -362,14 +362,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Gabinete de Curiosidades de Guillermo Del Toro (2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C11-SRS-O.Gab.G.Toro-ALL</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Gabinete de Curiosidades de Guillermo Del Toro (2022) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C11-SRS-O.Gab.G.Toro.2022-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/sxMMOIuV99LOwcJICx1Wy4O8fgi.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rpTpgiwj63N2f6HnB5SKhei5N80.jpg</fanart>
-<info>Assista a série O Gabinete de Curiosidades de Guillermo Del Toro. 
-[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 08 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2022[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Gabinete de Curiosidades de Guillermo Del Toro
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Abra a sua mente para o medo.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
