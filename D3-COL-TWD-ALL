@@ -1,9 +1,40 @@
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Walking Dead (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3-COL-TWD-ALL</externallink>
+<thumbnail>https://i.ibb.co/ZzGGDDV/COL-TWD-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/9hRHZBR/COL-TWD-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]The Walking Dead
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+D3-COL-TWD-ALL
+D3B1-SRS-TWD.2010-ALL
+D3B2-SRS-TWD.Fear.TWD.2015-ALL
+D3B3-SRS-TWD.Um.Novo.Universo.2020-ALL
+D3B4-SRS-TWD.Tales.2022-ALL
+D3B5-SRS-TWD.Daryl.Dixon.2023-ALL
+D3B6-SRS-TWD.Dead.City.2023-ALL
+D3B7-SRS-TWD.The.Ones.Who.Live.2024-ALL
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+PILOTO PARA ADICIONAR NOVA PAGE SELETIVA DE ESPECIAIS OU COLEÇÕES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D2-COL-TWD-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -84,7 +115,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Daryl Dixon (2023) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Daryl Dixon (2023) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3B5-SRS-TWD.Daryl.Dixon.2023-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/3eS1wt1Sa6lGudSpZqQqWPboE2B.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/a78US3gqAwUd65gtkCauazy6Ms7.jpg</fanart>
@@ -94,7 +125,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2023
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Daryl Dixon chega à costa da França e luta para entender como chegou lá e por quê. Acompanhe sua jornada por uma França quebrada, mas resiliente, enquanto ele tenta encontrar um caminho de volta para casa. As conexões que ele forma no caminho, no entanto, complicam os seus planos.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Daryl Dixon chega à costa da França e luta para entender como chegou lá e por quê. 
+Acompanhe sua jornada por uma França quebrada, mas resiliente, enquanto ele tenta encontrar um caminho de volta para casa.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -142,7 +177,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR black].[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D2-COL-TWD-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -152,7 +187,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D2-COL-TWD-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -163,7 +198,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE SUSPENSE E TERROR[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/1-LS-SEL-SPTR-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -174,7 +209,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -185,7 +220,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -196,7 +231,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -207,7 +242,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -218,7 +253,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -229,7 +264,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -240,9 +275,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
