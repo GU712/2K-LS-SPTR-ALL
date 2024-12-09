@@ -276,16 +276,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Albergue (03 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B4-COL-O.Albergue-ALL</externallink>
-<thumbnail>https://i.ibb.co/xGtDWWv/COL-ALBERGUE-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/g6Lh9KJ/COL-ALBERGUE-FAN-ALL.png</fanart>
+<name>[COLOR white][B]O Albergue (03 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B004-COL-O.Albergue-ALL</externallink>
+<thumbnail>https://i.ibb.co/L0RZ82n/COL-ALBERGUE-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/23ZX0Wr/COL-ALBERGUE-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]O Albergue
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
