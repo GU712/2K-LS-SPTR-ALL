@@ -294,16 +294,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Homem nas Trevas (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B3-COL-O.Homem.nas.Trevas-ALL</externallink>
-<thumbnail>https://i.ibb.co/6HTQkCp/COL-HOMNASTREVAS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/3mPw3F2/COL-HOMNASTREVAS-FAN-ALL.png</fanart>
+<name>[COLOR white][B]O Homem nas Trevas (02 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B003-COL-O.Homem.nas.Trevas-ALL</externallink>
+<thumbnail>https://i.ibb.co/p3N69gm/COL-HOMNASTREVAS-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/mCdJqnS/COL-HOMNASTREVAS-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]O Homem nas Trevas
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
