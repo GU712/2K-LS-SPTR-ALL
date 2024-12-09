@@ -310,17 +310,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Homem Sem Sombra (03 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B2-COL-O.Homem.Sem.Sombra-ALL</externallink>
-<thumbnail>https://i.ibb.co/NnjT0qv/COL-INVMAN-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/kJtfNjs/COL-INVMAN-FAN-ALL.png</fanart>
+<name>[COLOR white][B]O Homem Sem Sombra (03 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B002-COL-O.Homem.Sem.Sombra-ALL</externallink>
+<thumbnail>https://i.ibb.co/BqJT849/COL-INVMAN-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/2PcJBK7/COL-INVMAN-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]O Homem Sem Sombra
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
