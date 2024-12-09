@@ -475,16 +475,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sherlock Holmes (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B5-COL-Sherlock.Holmes-ALL</externallink>
-<thumbnail>https://i.ibb.co/Bfms72n/COL-SHERHOLMES-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/j8VtXss/COL-SHERHOLMES-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Sherlock Holmes (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B005-COL-Sherlock.Holmes-ALL</externallink>
+<thumbnail>https://i.ibb.co/tQtmXWG/COL-SHERHOLMES-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/s1qD0Dx/COL-SHERHOLMES-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Sherlock Holmes
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
