@@ -234,16 +234,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Invocação do Mal (03 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B7-COL-Invocasao.do.Mal-ALL</externallink>
-<thumbnail>https://i.ibb.co/6Zk694W/COL-INVMAL-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/LxmCzdK/COL-INVMAL-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Invocação do Mal (03 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B007-COL-Invocasao.do.Mal-ALL</externallink>
+<thumbnail>https://i.ibb.co/WP7NYCq/COL-INVMAL-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/QM3mRWx/COL-INVMAL-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Invocação do Mal
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
