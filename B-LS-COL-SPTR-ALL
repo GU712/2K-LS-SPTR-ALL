@@ -143,16 +143,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Dia dos Namorados Macabro (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B9-COL-Bloody.Valentine-ALL</externallink>
-<thumbnail>https://i.ibb.co/xztczV8/COL-B-VALENTINE-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/qRRLzpm/COL-B-VALENTINE-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Dia dos Namorados Macabro (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B009-COL-Bloody.Valentine-ALL</externallink>
+<thumbnail>https://i.ibb.co/dQPNMLR/COL-B-VALENTINE-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/KbTb884/COL-B-VALENTINE-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Dia dos Namorados Macabro
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
