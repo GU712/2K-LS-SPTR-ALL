@@ -13,16 +13,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Blade (Filmes - Série - Desenho)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D1-COL-Blade-ALL</externallink>
-<thumbnail>https://i.ibb.co/6scMLqh/COL-BLADE-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/0n3fqr3/COL-BLADE-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Blade (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D06-SEL-Blade-ALL</externallink>
+<thumbnail>https://i.ibb.co/WF544YS/ESP-BLADE-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/QDwJY9t/ESP-BLADE-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Blade
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
