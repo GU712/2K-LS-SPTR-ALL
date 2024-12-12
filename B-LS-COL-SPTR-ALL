@@ -362,16 +362,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Premonição (05 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B15-COL-Premonisao-ALL</externallink>
-<thumbnail>https://i.ibb.co/GHXgGhN/COL-PREMONISAO-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/zXCCty3/COL-PREMONISAO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Premonição (05 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B015-COL-Premonisao-ALL</externallink>
+<thumbnail>https://i.ibb.co/hBjXwyB/COL-PREMONISAO-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/TLfXPzz/COL-PREMONISAO-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Premonição
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -465,16 +466,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sexta Feira 13 (12 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B14-COL-Sexta.Feira.13-ALL</externallink>
-<thumbnail>https://i.ibb.co/bXjY8kr/COL-SEXYA-F-13-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/85KNnnw/COL-SEXYA-F-13-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Sexta Feira 13 (12 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B014-COL-Sexta.Feira.13-ALL</externallink>
+<thumbnail>https://i.ibb.co/QYgBjdq/COL-SEXYA-F-13-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/ZxR3bxm/COL-SEXYA-F-13-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Sexta Feira 13
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
