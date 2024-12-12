@@ -506,16 +506,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tubarão (04 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B13-COL-Tubarao-ALL</externallink>
-<thumbnail>https://i.ibb.co/HKdy75K/COL-TUBARAO-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/S34Kq3j/COL-TUBARAO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Tubarão (04 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B013-COL-Tubarao-ALL</externallink>
+<thumbnail>https://i.ibb.co/5sKWSWd/COL-TUBARAO-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/db9yZt2/COL-TUBARAO-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Tubarão
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
