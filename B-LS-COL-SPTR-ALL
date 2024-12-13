@@ -344,16 +344,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Poltergeist (03 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B16-COL-Poltergeist-ALL</externallink>
-<thumbnail>https://i.ibb.co/K5wQJQF/COL-POLTERGEIST-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/VWT24Mz/COL-POLTERGEIST-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Poltergeist (03 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B016-COL-Poltergeist-ALL</externallink>
+<thumbnail>https://i.ibb.co/j4SQjkf/COL-POLTERGEIST-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/xDMQyqB/COL-POLTERGEIST-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Poltergeist
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
