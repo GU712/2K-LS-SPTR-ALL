@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Lobisomens (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]Lobisomem (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D02A-FLM-Lobisomens-ALL</externallink>
 <thumbnail>https://i.ibb.co/7YnGMqb/ESP-LOBISOMEM-FLM.png</thumbnail>
 <fanart>https://i.ibb.co/xFVvdKT/ESP-LOBISOMEM-FAN.png</fanart>
@@ -32,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Lobisomens (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]Lobisomem (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D02B-SRS-Lobisomens-ALL</externallink>
 <thumbnail>https://i.ibb.co/1sGFt5j/ESP-LOBISOMEM-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/xFVvdKT/ESP-LOBISOMEM-FAN.png</fanart>
@@ -51,7 +51,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Lobisomens (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]Lobisomem (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D02C-DSH-Lobisomens-ALL</externallink>
 <thumbnail>https://i.ibb.co/bvvcNVy/ESP-LOBISOMEM-DSH.png</thumbnail>
 <fanart>https://i.ibb.co/xFVvdKT/ESP-LOBISOMEM-FAN.png</fanart>
@@ -209,4 +209,3 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
