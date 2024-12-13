@@ -1,105 +1,175 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]As Crônicas de Frankenstein[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/gEkUGlWXruIb8q6DvQDbqxcfjgi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]As Crônicas de Frankenstein
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2015 a 2017
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 12 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]John Marlott é um inspetor de polícia encarregado de investigar um caso bizarro. 
+Quando o corpo de uma criança é encontrado, uma análise revela que não se trata de uma pessoa e sim de uma criatura com forma humana.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (2015) 06 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/lPR3LCS9q0RrO6LjEgVpkHrzDnd.jpg</thumbnail>
-<fanart><FUNDO></fanart>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Um Mundo Sem Deus[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T01/LS-T01E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lPR3LCS9q0RrO6LjEgVpkHrzDnd.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Um Mundo Sem Deus[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T01/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Vendo Coisas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T01/LS-T01E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lPR3LCS9q0RrO6LjEgVpkHrzDnd.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Vendo Coisas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T01/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Todas as Crianças Perdidas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T01/LS-T01E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lPR3LCS9q0RrO6LjEgVpkHrzDnd.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Todas as Crianças Perdidas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T01/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]As Fortunas da Guerra[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T01/LS-T01E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lPR3LCS9q0RrO6LjEgVpkHrzDnd.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]As Fortunas da Guerra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T01/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Os Assassinatos de Frankenstein[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T01/LS-T01E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lPR3LCS9q0RrO6LjEgVpkHrzDnd.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Os Assassinatos de Frankenstein[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T01/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Achados e Perdidos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T01/LS-T01E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lPR3LCS9q0RrO6LjEgVpkHrzDnd.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Achados e Perdidos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T01/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 02 (2017) 06 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/italudlJeo6yWXzJfoPLQmis2oO.jpg</thumbnail>
-<fanart><FUNDO></fanart>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Filho Prodígio[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T02/LS-T02E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/italudlJeo6yWXzJfoPLQmis2oO.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Filho Prodígio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T02/LS-T02E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Não John Marlott[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T02/LS-T02E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/italudlJeo6yWXzJfoPLQmis2oO.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Não John Marlott[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T02/LS-T02E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Vendo os Mortos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T02/LS-T02E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/italudlJeo6yWXzJfoPLQmis2oO.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Vendo os Mortos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T02/LS-T02E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Rapaz Pequeno Perdido[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T02/LS-T02E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/italudlJeo6yWXzJfoPLQmis2oO.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Rapaz Pequeno Perdido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T02/LS-T02E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]O Casamento do Céu e do Inferno[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T02/LS-T02E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/italudlJeo6yWXzJfoPLQmis2oO.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]O Casamento do Céu e do Inferno[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T02/LS-T02E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Noiva de Frankenstein[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/As.Cronicas.de.Frankenstein.2015/T02/LS-T02E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/italudlJeo6yWXzJfoPLQmis2oO.jpg</thumbnail><fanart><FUNDO></fanart></item>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Noiva de Frankenstein[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-CL/Frankenstein/SRS/2015.As.Cronicas.de.Frankenstein/T02/LS-T02E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
