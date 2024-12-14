@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D-COL-ESP-SPTR-ALL</externallink>
+<externallink><LINKRAWPAGECOL></externallink>
 <thumbnail>https://i.ibb.co/266Q0jp/SEL-ITEM-ESPC-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
@@ -13,143 +13,49 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Blade (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D06-SEL-Blade-ALL</externallink>
-<thumbnail>https://i.ibb.co/WF544YS/ESP-BLADE-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/QDwJY9t/ESP-BLADE-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Blade
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Drácula (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D05-SEL-Dracula-ALL</externallink>
-<thumbnail>https://i.ibb.co/B4TQHfF/ESP-DRACULA-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/jf67WJD/ESP-DRACULA-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Drácula
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Frankenstein (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D03-SEL-Frankenstein-ALL</externallink>
-<thumbnail>https://i.ibb.co/2qxWhFp/ESP-FRANKIE-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/0FZVR5c/ESP-FRANKIE-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Frankenstein
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Lobisomem (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D02-SEL-Lobisomens-ALL</externallink>
-<thumbnail>https://i.ibb.co/ryzwZfv/ESP-LOBISOMEM-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/xFVvdKT/ESP-LOBISOMEM-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Lobisomens
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Psicose (Filmes - Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D07-SEL-Psicose-ALL</externallink>
-<thumbnail>https://i.ibb.co/h8KQfbb/COL-PSICOSE-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/Kw08fKj/COL-PSICOSE-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Psicose
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Walking Dead (Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3-COL-TWD-ALL</externallink>
-<thumbnail>https://i.ibb.co/ZzGGDDV/COL-TWD-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/9hRHZBR/COL-TWD-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]The Walking Dead
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Vampiros (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01-SEL-Vampiros-ALL</externallink>
-<thumbnail>https://i.ibb.co/sRjjJQt/ESP-VAMPIRO-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/Jd8h132/ESP-VAMPIRO-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Vampiros
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Zumbis (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D04-SEL-Zumbis-ALL</externallink>
-<thumbnail>https://i.ibb.co/rpTCVtX/ESP-ZUMBIS-ICO.png</thumbnail>
+<name>[COLOR white][B]Zumbis (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D04A-SEL-FLM-Zumbis-ALL</externallink>
+<thumbnail>https://i.ibb.co/njbV100/ESP-ZUMBIS-FLM.png</thumbnail>
 <fanart>https://i.ibb.co/PhvDLzy/ESP-ZUMBIS-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
+<info>[COLOR white]Conheça a seção de filmes: 
+[B]Zumbis
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Zumbis (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D04B-SRS-Zumbis-ALL</externallink>
+<thumbnail>https://i.ibb.co/FwtnJvZ/ESP-ZUMBIS-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/PhvDLzy/ESP-ZUMBIS-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Zumbis
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Zumbis (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink><LINKRAWPAGEDSH></externallink>
+<thumbnail>https://i.ibb.co/n1vMb8Z/ESP-ZUMBIS-DSH.png</thumbnail>
+<fanart>https://i.ibb.co/PhvDLzy/ESP-ZUMBIS-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de desenhos: 
 [B]Zumbis
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
@@ -166,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D-COL-ESP-SPTR-ALL</externallink>
+<externallink><LINKRAWPAGECOL></externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -176,7 +82,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D-COL-ESP-SPTR-ALL</externallink>
+<externallink><LINKRAWPAGECOL></externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -303,4 +209,3 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
