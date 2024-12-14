@@ -1,5 +1,37 @@
 <channels>
 <channel>
+<name>[COLOR white][B]The Walking Dead (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D04B1-SEL-TWD-ALL</externallink>
+<thumbnail>https://i.ibb.co/MN6PMPs/COL-TWD-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/4pGChvP/COL-TWD-FAN.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]The Walking Dead
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+D04B1-SEL-TWD-ALL
+D04B1A-SRS-TWD.The.Ones.Who.Live.2024-ALL
+D04B1B-SRS-TWD.Dead.City.2023-ALL
+D04B1C-SRS-TWD.Daryl.Dixon.2023-ALL
+D04B1D-SRS-TWD.Tales.2022-ALL
+D04B1E-SRS-TWD.Um.Novo.Universo.2020-ALL
+D04B1F-SRS-TWD.Fear.TWD.2015-ALL
+D04B1G-SRS-TWD.A.Serie.2010-ALL
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+PILOTO PARA ADICIONAR NOVA PAGE SELETIVA DE ESPECIAIS OU COLEÇÕES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D04B1-SEL-TWD-ALL</externallink>
 <thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
@@ -86,7 +118,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Daryl Dixon (2023) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D3B5-SRS-TWD.Daryl.Dixon.2023-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D04B1C-SRS-TWD.Daryl.Dixon.2023-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/3eS1wt1Sa6lGudSpZqQqWPboE2B.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/a78US3gqAwUd65gtkCauazy6Ms7.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
