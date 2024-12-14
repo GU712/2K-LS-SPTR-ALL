@@ -145,16 +145,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Zumbi (Filmes - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D4-COL-ZUMBI-ALL</externallink>
-<thumbnail>https://i.ibb.co/vcHC5Pn/ESP-ZUMBI-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/vJGwLqm/ESP-ZUMBI-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Zumbis (Filmes - Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D04-SEL-Zumbis-ALL</externallink>
+<thumbnail>https://i.ibb.co/rpTCVtX/ESP-ZUMBIS-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/PhvDLzy/ESP-ZUMBIS-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
-[B]Zumbi
+[B]Zumbis
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
