@@ -429,16 +429,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Resident Evil (06 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D4A3-COL-Res.Evil-ALL</externallink>
-<thumbnail>https://i.ibb.co/CJbJpN6/COL-RES-EVIL-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/4T5nfQV/COL-RES-EVIL-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Resident Evil (06 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D04A3-COL-Res.Evil-ALL</externallink>
+<thumbnail>https://i.ibb.co/gzjbNV1/COL-RES-EVIL-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/wS7g4Bn/COL-RES-EVIL-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Resident Evil
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
