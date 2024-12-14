@@ -32,16 +32,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Noite dos Mortos Vivos (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D4A5-COL-A.Noite.dos.Mortos.Vivos-ALL</externallink>
-<thumbnail>https://i.ibb.co/G25sxR9/COL-N-MORTOS-VIVOS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/MZXCzDg/COL-N-MORTOS-VIVOS-FAN-ALL.png</fanart>
+<name>[COLOR white][B]A Noite dos Mortos Vivos (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D04A5-COL-A.Noite.dos.Mortos.Vivos-ALL</externallink>
+<thumbnail>https://i.ibb.co/SRfG320/COL-N-MORTOS-VIVOS-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/NWbtsnG/COL-N-MORTOS-VIVOS-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]A Noite dos Mortos Vivos
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
