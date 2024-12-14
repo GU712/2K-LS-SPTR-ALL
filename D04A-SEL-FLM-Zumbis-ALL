@@ -13,16 +13,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Zumbis (09 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D4A1-COL-FLM-Zumbis-ALL</externallink>
-<thumbnail>https://i.ibb.co/s9vwYnN/COL-ZUMBI-ICON-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/vJGwLqm/ESP-ZUMBI-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Zombies (09 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D04A1-FLM-Zombies-ALL</externallink>
+<thumbnail>https://i.ibb.co/NZGjjjH/COL-ZUMBIS-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/0tTp6fL/COL-ZUMBIS-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
-[B]Zumbis
+[B]Zombies
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
