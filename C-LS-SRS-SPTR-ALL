@@ -151,7 +151,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]American Horror Story (2011-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C3-SRS-American.Horror.Story.2011-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C003-SRS-American.Horror.Story.2011-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/cgrzX4upJP9IDhlRO375G9whU8P.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -160,11 +160,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2011 a 2023
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]12 TEMPs - 132 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Descrita como uma série antológica, cada temporada é concebida como uma mini-série 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Descrita como uma série antológica, cada temporada é concebida como uma mini-série 
 independente, seguindo um conjunto de personagens e ambientes distintos e com enredo único por temporada.
-[COLOR black].[/COLOR]
-[COLOR white]Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
