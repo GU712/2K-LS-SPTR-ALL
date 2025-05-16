@@ -491,7 +491,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Motel Bates (2013-2017) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C15-SRS-Bates.Motel.2013-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C015-SRS-Bates.Motel.2013-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/sdfKJ9ji6zt1uTul9ljuL18vzuM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/839ECOrIommOslk0nN5riD18VX.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -500,11 +500,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2013 a 2017
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 50 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após a morte do pai, Norman Bates e sua mãe abrem um hotel. Mas o estado mental 
-de Norman os leva por um caminho sombrio e violento.
-[COLOR black].[/COLOR]
-[COLOR white]Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Após a morte do pai, Norman Bates e sua mãe abrem um hotel. Mas o estado mental
+ de Norman os leva por um caminho sombrio e violento.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
