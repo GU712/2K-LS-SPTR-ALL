@@ -1,11 +1,32 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]American Horror Story[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/cgrzX4upJP9IDhlRO375G9whU8P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]American Horror Story
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2011 a 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]12 TEMPs - 132 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Descrita como uma série antológica, cada temporada é concebida como uma mini-série 
+independente, seguindo um conjunto de personagens e ambientes distintos e com enredo único por temporada.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
@@ -13,137 +34,268 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (2011) - 12 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E01[COLOR yellow] -> [COLOR white]Piloto - Harmons[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto - Harmons[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E01%20-%20Pilot%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E02[COLOR yellow] -> [COLOR white]Invasão da Casa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Invasão da Casa[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E02%20-%20Home%20Invasion%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E03[COLOR yellow] -> [COLOR white]Assassinato na Casa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Assassinato na Casa[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E03%20-%20Murder%20House%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E04[COLOR yellow] -> [COLOR white]Dia das Bruxas (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Dia das Bruxas (Parte 1)[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E04%20-%20Halloween%20(1)%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E05[COLOR yellow] -> [COLOR white]Dia das Bruxas (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Dia das Bruxas (Parte 2)[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E05%20-%20Halloween%20(2)%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E06[COLOR yellow] -> [COLOR white]Porquinho Porquinho[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Porquinho Porquinho[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E06%20-%20Piggy,%20Piggy%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E07[COLOR yellow] -> [COLOR white]Casa Aberta[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Casa Aberta[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E07%20-%20Open%20House%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E08[COLOR yellow] -> [COLOR white]Homem de Borracha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Homem de Borracha[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E08%20-%20Rubber%20Man%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E09[COLOR yellow] -> [COLOR white]Menina Spooky[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Menina Spooky[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E09%20-%20Spooky%20Little%20Girl%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E10[COLOR yellow] -> [COLOR white]Crianças Latente[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Crianças Latente[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E10%20-%20Smoldering%20Children%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E11[COLOR yellow] -> [COLOR white]Nascimento[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Nascimento[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E11%20-%20Birth%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T01E12[COLOR yellow] -> [COLOR white]Placenta[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Placenta[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2001/American%20Horror%20Story%20-%20S01E12%20-%20Afterbirth%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7Q8clX4HRMH6vMgxf3JDSQIYsOA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
 <title>[COLOR orange][B]Manicômio[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 02 (2012) - 13 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 02 (2012) - 13 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E01[COLOR yellow] -> [COLOR white]Bem-vindo ao Briarcliff[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Bem-vindo ao Briarcliff[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E01%20-%20Welcome%20to%20Briarcliff%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E02[COLOR yellow] -> [COLOR white]Truques e Deleites[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Truques e Deleites[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E02%20-%20Tricks%20and%20Treats%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E03[COLOR yellow] -> [COLOR white]Nor'easter[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Nor'easter[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E03%20-%20Nor'easter%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E04[COLOR yellow] -> [COLOR white]Eu sou Anne Frank (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Eu sou Anne Frank (Parte 1)[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E04%20-%20I%20Am%20Anne%20Frank%20(1)%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E05[COLOR yellow] -> [COLOR white]Eu sou Anne Frank (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Eu sou Anne Frank (Parte 2)[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E05%20-%20I%20Am%20Anne%20Frank%20(2)%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E06[COLOR yellow] -> [COLOR white]As Origens da Monstruosidade[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]As Origens da Monstruosidade[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E06%20-%20The%20Origins%20of%20Monstrosity%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E07[COLOR yellow] -> [COLOR white]Primo Sombrio[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Primo Sombrio[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E07%20-%20Dark%20Cousin%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E08[COLOR yellow] -> [COLOR white]Noite Impiedosa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Noite Impiedosa[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E08%20-%20Unholy%20Night%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E09[COLOR yellow] -> [COLOR white]O Cabide[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]O Cabide[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E09%20-%20The%20Coat%20Hanger%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E10[COLOR yellow] -> [COLOR white]O Nome do Jogo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]O Nome do Jogo[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E10%20-%20The%20Name%20Game%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E11[COLOR yellow] -> [COLOR white]Leite Derramado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Leite Derramado[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E11%20-%20Spilt%20Milk%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E12[COLOR yellow] -> [COLOR white]Continuum[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Continuum[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E12%20-%20Continuum%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T02E13[COLOR yellow] -> [COLOR white]Termina Loucura[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Termina Loucura[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2002/American%20Horror%20Story%20-%20S02E13%20-%20Madness%20Ends%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5uKnfC1iUwrAxKkWQNkYkYPxNiZ.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
@@ -151,141 +303,277 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 03 (2013) - 13 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 03 (2013) - 13 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail>
+<thumbnail><thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E01[COLOR yellow] -> [COLOR white]Ofício de Cabra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Ofício de Cabra[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E01%20-%20Bitchcraft%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E02[COLOR yellow] -> [COLOR white]Peças do Garoto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Peças do Garoto[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E02%20-%20Boy%20Parts%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E03[COLOR yellow] -> [COLOR white]Os Substitutos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Os Substitutos[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E03%20-%20The%20Replacements%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E04[COLOR yellow] -> [COLOR white]Pegadinhas Terríveis Acontece[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Pegadinhas Terríveis Acontece[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E04%20-%20Fearful%20Pranks%20Ensue%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E05[COLOR yellow] -> [COLOR white]Queime, Bruxa, Queime[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Queime, Bruxa, Queime[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E05%20-%20Burn,%20Witch.%20Burn!%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E06[COLOR yellow] -> [COLOR white]O Bárbaro Chegou[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]O Bárbaro Chegou[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E06%20-%20The%20Axeman%20Cometh%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E07[COLOR yellow] -> [COLOR white]Os Mortos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Os Mortos[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E07%20-%20The%20Dead%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E08[COLOR yellow] -> [COLOR white]Tendo o Sagrado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Tendo o Sagrado[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E08%20-%20The%20Sacred%20Taking%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E09[COLOR yellow] -> [COLOR white]Chefe[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Chefe[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E09%20-%20Head%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E10[COLOR yellow] -> [COLOR white]Os Encantos Mágicos da Stevie Nicks[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Os Encantos Mágicos da Stevie Nicks[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E10%20-%20The%20Magical%20Delights%20of%20Stevie%20Nicks%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E11[COLOR yellow] -> [COLOR white]Proteja o Coven[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Proteja o Coven[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E11%20-%20Protect%20the%20Coven%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E12[COLOR yellow] -> [COLOR white]Vá para o Inferno[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Vá para o Inferno[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E12%20-%20Go%20to%20Hell%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T03E13[COLOR yellow] -> [COLOR white]As Sete Maravilhas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]As Sete Maravilhas[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%Season%2003/American%20Horror%20Story%20-%20S03E13%20-%20The%20Seven%20Wonders%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4quwHpOpUCCIZS7EEAhghZMQzMc.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
-<title>[COLOR orange][B]Show de Horrores[/B][/COLOR]</title>	
+<title>[COLOR orange][B]Show de Horrores[/B][/COLOR]</title>		
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 04 (2014) - 13 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 04 (2014) - 13 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E01[COLOR yellow] -> [COLOR white]Monstros Entre Nós[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Monstros Entre Nós[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E01%20-%20Monsters%20Among%20Us%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E02[COLOR yellow] -> [COLOR white]Massacres e Matinês[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Massacres e Matinês[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E02%20-%20Massacres%20and%20Matinees%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E03[COLOR yellow] -> [COLOR white]Edward Mondrake (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Edward Mondrake (Parte 1)[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E03%20-%20Edward%20Mordrake%20(1)%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E04[COLOR yellow] -> [COLOR white]Edward Mondrake (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Edward Mondrake (Parte 2)[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E04%20-%20Edward%20Mordrake%20(2)%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E05[COLOR yellow] -> [COLOR white]Cupcakes Rosa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Cupcakes Rosa[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E05%20-%20Pink%20Cupcakes%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E06[COLOR yellow] -> [COLOR white]Bullseye[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Bullseye[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E06%20-%20Bullseye%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E07[COLOR yellow] -> [COLOR white]Teste de Força[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Teste de Força[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E07%20-%20Test%20of%20Strength%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E08[COLOR yellow] -> [COLOR white]Banho de Sangue[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Banho de Sangue[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E08%20-%20Blood%20Bath%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E09[COLOR yellow] -> [COLOR white]Massacre Tupperware Party[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Massacre Tupperware Party[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E09%20-%20Tupperware%20Party%20Massacre%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E10[COLOR yellow] -> [COLOR white]Órfãos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Órfãos[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E10%20-%20Orphans%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E11[COLOR yellow] -> [COLOR white]Pensamento Mágico[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Pensamento Mágico[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E11%20-%20Magical%20Thinking%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E12[COLOR yellow] -> [COLOR white]Mostrar as Rolhas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Mostrar as Rolhas[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E12%20-%20Show%20Stoppers%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T04E13[COLOR yellow] -> [COLOR white]Receber os Aplausos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Receber os Aplausos[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2004/American%20Horror%20Story%20-%20S04E13%20-%20Curtain%20Call%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iaCPLWfUqJprzMLDflYVp1StUxj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
@@ -293,125 +581,241 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 05 (2015) - 12 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 05 (2015) - 12 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/05.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E01[COLOR yellow] -> [COLOR white]Check-In[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Check-In[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E01%20-%20Checking%20In%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E02[COLOR yellow] -> [COLOR white]Rampas e Escadas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Rampas e Escadas[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E02%20-%20Chutes%20and%20Ladders%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E03[COLOR yellow] -> [COLOR white]Mamãe[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Mamãe[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E03%20-%20Mommy%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E04[COLOR yellow] -> [COLOR white]Noite do Diabo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Noite do Diabo[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E04%20-%20Devil's%20Night%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E05[COLOR yellow] -> [COLOR white]Sala de Serviço[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]Sala de Serviço[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E05%20-%20Room%20Service%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E06[COLOR yellow] -> [COLOR white]Sala 33[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Sala 33[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E06%20-%20Room%2033%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E07[COLOR yellow] -> [COLOR white]Tremulação[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Tremulação[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E07%20-%20Flicker%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E08[COLOR yellow] -> [COLOR white]O Assassino dos Dez Mandamentos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]O Assassino dos Dez Mandamentos[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E08%20-%20The%20Ten%20Commandments%20Killer%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E09[COLOR yellow] -> [COLOR white]Ela Quer Vingança[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Ela Quer Vingança[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E09%20-%20She%20Wants%20Revenge%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E10[COLOR yellow] -> [COLOR white]Ela Consegue Vingança[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Ela Consegue Vingança[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E10%20-%20She%20Gets%20Revenge%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E11[COLOR yellow] -> [COLOR white]Batalha Real[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E11[COLOR yellow] -> [COLOR white]Batalha Real[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E11%20-%20Battle%20Royale%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T05E12[COLOR yellow] -> [COLOR white]Seja Nosso Convidado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E12[COLOR yellow] -> [COLOR white]Seja Nosso Convidado[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2005/American%20Horror%20Story%20-%20S05E12%20-%20Be%20Our%20Guest%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d5WaykErlWicVPQJUNkW0M0ye81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
-<title>[COLOR orange][B]Pesadelo em Roanoke[/B][/COLOR]</title>	
+<title>[COLOR orange][B]Pesadelo em Roanoke[/B][/COLOR]</title>		
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 06 (2016) - 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 06 (2016) - 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/06.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T06E01[COLOR yellow] -> [COLOR white]Capítulo 1[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]Capítulo 1[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2006/American%20Horror%20Story%20-%20S06E01%20-%20Chapter%201%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T06E02[COLOR yellow] -> [COLOR white]Capítulo 2[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Capítulo 2[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2006/American%20Horror%20Story%20-%20S06E02%20-%20Chapter%202%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T06E03[COLOR yellow] -> [COLOR white]Capítulo 3[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]Capítulo 3[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2006/American%20Horror%20Story%20-%20S06E03%20-%20Chapter%203%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T06E04[COLOR yellow] -> [COLOR white]Capítulo 4[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E04[COLOR yellow] -> [COLOR white]Capítulo 4[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2006/American%20Horror%20Story%20-%20S06E04%20-%20Chapter%204%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T06E05[COLOR yellow] -> [COLOR white]Capítulo 5[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E05[COLOR yellow] -> [COLOR white]Capítulo 5[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2006/American%20Horror%20Story%20-%20S06E05%20-%20Chapter%205%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T06E06[COLOR yellow] -> [COLOR white]Capítulo 6[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E06[COLOR yellow] -> [COLOR white]Capítulo 6[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2006/American%20Horror%20Story%20-%20S06E06%20-%20Chapter%206%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T06E07[COLOR yellow] -> [COLOR white]Capítulo 7[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E07[COLOR yellow] -> [COLOR white]Capítulo 7[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2006/American%20Horror%20Story%20-%20S06E07%20-%20Chapter%207%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T06E08[COLOR yellow] -> [COLOR white]Capítulo 8[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E08[COLOR yellow] -> [COLOR white]Capítulo 8[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2006/American%20Horror%20Story%20-%20S06E08%20-%20Chapter%208%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T06E09[COLOR yellow] -> [COLOR white]Capítulo 9[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E09[COLOR yellow] -> [COLOR white]Capítulo 9[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2006/American%20Horror%20Story%20-%20S06E09%20-%20Chapter%209%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T06E10[COLOR yellow] -> [COLOR white]Capítulo 10[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E10[COLOR yellow] -> [COLOR white]Capítulo 10[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2006/American%20Horror%20Story%20-%20S06E10%20-%20Chapter%2010%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jfvdOkLajNuO1jNoMvb0SHW89S0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
@@ -419,121 +823,232 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 07 (2017) - 11 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 07 (2017) - 11 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/07.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E01[COLOR yellow] -> [COLOR white]A Noite de Eleição[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E01[COLOR yellow] -> [COLOR white]A Noite de Eleição[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E01%20-%20Election%20Night%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E02[COLOR yellow] -> [COLOR white]Não Tenha Medo do Escuro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E02[COLOR yellow] -> [COLOR white]Não Tenha Medo do Escuro[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E02%20-%20Don't%20Be%20Afraid%20of%20the%20Dark%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E03[COLOR yellow] -> [COLOR white]Vizinhos do Inferno[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E03[COLOR yellow] -> [COLOR white]Vizinhos do Inferno[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E03%20-%20Neighbors%20from%20Hell%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E04[COLOR yellow] -> [COLOR white]45546[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E04[COLOR yellow] -> [COLOR white]45546[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E04%20-%2011+9%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E05[COLOR yellow] -> [COLOR white]Buracos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E05[COLOR yellow] -> [COLOR white]Buracos[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E05%20-%20Holes%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E06[COLOR yellow] -> [COLOR white]O Assassino do Centro Oeste[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E06[COLOR yellow] -> [COLOR white]O Assassino do Centro Oeste[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E06%20-%20Mid-Western%20Assassin%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E07[COLOR yellow] -> [COLOR white]Valerie Solanas Morreu Pelos Seus Pecados: Imbecil[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E07[COLOR yellow] -> [COLOR white]Valerie Solanas Morreu Pelos Seus Pecados: Imbecil[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E07%20-%20Valerie%20Solanas%20Died%20for%20Your%20SinsScumbag%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E08[COLOR yellow] -> [COLOR white]O Inverno do Nosso Desgosto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E08[COLOR yellow] -> [COLOR white]O Inverno do Nosso Desgosto[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E08%20-%20Winter%20of%20Our%20Discontent%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E09[COLOR yellow] -> [COLOR white]Beba o Suco[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E09[COLOR yellow] -> [COLOR white]Beba o Suco[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E09%20-%20Drink%20the%20Kool-Aid%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E10[COLOR yellow] -> [COLOR white]Charles (Manson) é o Acusado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E10[COLOR yellow] -> [COLOR white]Charles (Manson) é o Acusado[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E10%20-%20Charles%20(Manson)%20in%20Charge%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T07E11[COLOR yellow] -> [COLOR white]Excelente Novamente[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E11[COLOR yellow] -> [COLOR white]Excelente Novamente[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2007/American%20Horror%20Story%20-%20S07E11%20-%20Great%20Again%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ox2ZppN0a3poXQGdqIsCa6bKWjj.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
-<title>[COLOR orange][B]Apocalipse[/B][/COLOR]</title>	
+<title>[COLOR orange][B]Apocalipse[/B][/COLOR]</title>		
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 08 (2018) - 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 08 (2018) - 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/08.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T08E01[COLOR yellow] -> [COLOR white]O Fim[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E01[COLOR yellow] -> [COLOR white]O Fim[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2008/American%20Horror%20Story%20-%20S08E01%20-%20The%20End%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T08E02[COLOR yellow] -> [COLOR white]A Manhã Seguinte[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E02[COLOR yellow] -> [COLOR white]A Manhã Seguinte[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2008/American%20Horror%20Story%20-%20S08E02%20-%20The%20Morning%20After%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T08E03[COLOR yellow] -> [COLOR white]O Fruto Proibido[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E03[COLOR yellow] -> [COLOR white]O Fruto Proibido[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2008/American%20Horror%20Story%20-%20S08E03%20-%20Forbidden%20Fruit%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T08E04[COLOR yellow] -> [COLOR white]Seria o... Satanás?[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E04[COLOR yellow] -> [COLOR white]Seria o... Satanás?[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2008/American%20Horror%20Story%20-%20S08E04%20-%20Could%20It%20Be.%20Satan%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T08E05[COLOR yellow] -> [COLOR white]O Garoto Excepcional[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E05[COLOR yellow] -> [COLOR white]O Garoto Excepcional[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2008/American%20Horror%20Story%20-%20S08E05%20-%20Boy%20Wonder%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T08E06[COLOR yellow] -> [COLOR white]Retorno à Casa dos Assassinatos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E06[COLOR yellow] -> [COLOR white]Retorno à Casa dos Assassinatos[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2008/American%20Horror%20Story%20-%20S08E06%20-%20Return%20to%20Murder%20House%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T08E07[COLOR yellow] -> [COLOR white]O Traidor[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E07[COLOR yellow] -> [COLOR white]O Traidor[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2008/American%20Horror%20Story%20-%20S08E07%20-%20Traitor%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T08E08[COLOR yellow] -> [COLOR white]Estadia[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E08[COLOR yellow] -> [COLOR white]Estadia[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2008/American%20Horror%20Story%20-%20S08E08%20-%20Sojourn%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T08E09[COLOR yellow] -> [COLOR white]Fogo e Reinado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E09[COLOR yellow] -> [COLOR white]Fogo e Reinado[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2008/American%20Horror%20Story%20-%20S08E09%20-%20Fire%20and%20Reign%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T08E10[COLOR yellow] -> [COLOR white]Apocalipse Então[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E10[COLOR yellow] -> [COLOR white]Apocalipse Então[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2008/American%20Horror%20Story%20-%20S08E10%20-%20Apocalypse%20Then%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jSCAfStSVF6zttxXl6zl5jn0aar.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
@@ -541,172 +1056,326 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 09 (2019) - 09 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 09 (2019) - 09 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/09.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T09E01[COLOR yellow] -> [COLOR white]Acampamento Redwood[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T09E01[COLOR yellow] -> [COLOR white]Acampamento Redwood[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2009/American%20Horror%20Story%20-%20S09E01%20-%20Camp%20Redwood%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T09E02[COLOR yellow] -> [COLOR white]Sr. Jingles[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T09E02[COLOR yellow] -> [COLOR white]Sr. Jingles[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2009/American%20Horror%20Story%20-%20S09E02%20-%20Mr.%20Jingles%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T09E03[COLOR yellow] -> [COLOR white]Dança do Slash[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T09E03[COLOR yellow] -> [COLOR white]Dança do Slash[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2009/American%20Horror%20Story%20-%20S09E03%20-%20Slashdance%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T09E04[COLOR yellow] -> [COLOR white]Verdadeiros Assassinos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T09E04[COLOR yellow] -> [COLOR white]Verdadeiros Assassinos[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2009/American%20Horror%20Story%20-%20S09E04%20-%20True%20Killers%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T09E05[COLOR yellow] -> [COLOR white]Amanhecer Vermelho[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T09E05[COLOR yellow] -> [COLOR white]Amanhecer Vermelho[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2009/American%20Horror%20Story%20-%20S09E05%20-%20Red%20Dawn%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T09E06[COLOR yellow] -> [COLOR white]Episódio 100[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T09E06[COLOR yellow] -> [COLOR white]Episódio 100[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2009/American%20Horror%20Story%20-%20S09E06%20-%20Episode%200%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T09E07[COLOR yellow] -> [COLOR white]A Dama de Branco[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T09E07[COLOR yellow] -> [COLOR white]A Dama de Branco[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2009/American%20Horror%20Story%20-%20S09E07%20-%20The%20Lady%20in%20White%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T09E08[COLOR yellow] -> [COLOR white]Descanse em Pedaços[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T09E08[COLOR yellow] -> [COLOR white]Descanse em Pedaços[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2009/American%20Horror%20Story%20-%20S09E08%20-%20Rest%20in%20Pieces%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T09E09[COLOR yellow] -> [COLOR white]Garota Final[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T09E09[COLOR yellow] -> [COLOR white]Garota Final[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2009/American%20Horror%20Story%20-%20S09E09%20-%20Final%20Girl%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7IRBKuJKCPBPF7mU4bci46vlrAa.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
-<title>[COLOR orange][B]Característica Dupla[/B][/COLOR]</title>	
+<title>[COLOR orange][B]Característica Dupla[/B][/COLOR]</title>		
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 10 (2021) - 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 10 (2021) - 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/10.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T10E01[COLOR yellow] -> [COLOR white]Cabo Medo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T10E01[COLOR yellow] -> [COLOR white]Cabo Medo[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2010/American%20Horror%20Story%20-%20S10E01%20-%20Cape%20Fear%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T10E02[COLOR yellow] -> [COLOR white]Pálido[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T10E02[COLOR yellow] -> [COLOR white]Pálido[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2010/American%20Horror%20Story%20-%20S10E02%20-%20Pale%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T10E03[COLOR yellow] -> [COLOR white]Sede[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T10E03[COLOR yellow] -> [COLOR white]Sede[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2010/American%20Horror%20Story%20-%20S10E03%20-%20Thirst%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T10E04[COLOR yellow] -> [COLOR white]Buffet De Sangue[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T10E04[COLOR yellow] -> [COLOR white]Buffet De Sangue[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2010/American%20Horror%20Story%20-%20S10E04%20-%20Blood%20Buffet%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T10E05[COLOR yellow] -> [COLOR white]Distorcer[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T10E05[COLOR yellow] -> [COLOR white]Distorcer[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2010/American%20Horror%20Story%20-%20S10E05%20-%20Gaslight%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T10E06[COLOR yellow] -> [COLOR white]Mortes de Inverno[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T10E06[COLOR yellow] -> [COLOR white]Mortes de Inverno[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2010/American%20Horror%20Story%20-%20S10E06%20-%20Winter%20Kills%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T10E07[COLOR yellow] -> [COLOR white]Leve-me Ao Seu Líder[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T10E07[COLOR yellow] -> [COLOR white]Leve-me Ao Seu Líder[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2010/American%20Horror%20Story%20-%20S10E07%20-%20Take%20Me%20to%20Your%20Leader%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T10E08[COLOR yellow] -> [COLOR white]Dentro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T10E08[COLOR yellow] -> [COLOR white]Dentro[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2010/American%20Horror%20Story%20-%20S10E08%20-%20Inside%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T10E09[COLOR yellow] -> [COLOR white]Lua Azul[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T10E09[COLOR yellow] -> [COLOR white]Lua Azul[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2010/American%20Horror%20Story%20-%20S10E09%20-%20Blue%20Moon%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T10E10[COLOR yellow] -> [COLOR white]O Futuro Perfeito[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T10E10[COLOR yellow] -> [COLOR white]O Futuro Perfeito[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2010/American%20Horror%20Story%20-%20S10E10%20-%20The%20Future%20Perfect%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kZWpPjq153IdKmcsQmdMBmnXh9i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>	
-<title>[COLOR orange][B]NYC[/B][/COLOR]</title>	
+<title>[COLOR orange][B]NYC[/B][/COLOR]</title>		
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 11 (2022) - 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 11 (2022) - 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/11.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T11E01[COLOR yellow] -> [COLOR white]Algo Está Vindo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T11E01[COLOR yellow] -> [COLOR white]Algo Está Vindo[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2011/American%20Horror%20Story%20-%20S11E01%20-%20Something%E2%80%99s%20Coming%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T11E02[COLOR yellow] -> [COLOR white]Obrigado Pelo Seu Serviço[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T11E02[COLOR yellow] -> [COLOR white]Obrigado Pelo Seu Serviço[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2011/American%20Horror%20Story%20-%20S11E02%20-%20Thank%20You%20for%20Your%20Service%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T11E03[COLOR yellow] -> [COLOR white]Sinais De Fumaça[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T11E03[COLOR yellow] -> [COLOR white]Sinais De Fumaça[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2011/American%20Horror%20Story%20-%20S11E03%20-%20Smoke%20Signals%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T11E04[COLOR yellow] -> [COLOR white]Apagão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T11E04[COLOR yellow] -> [COLOR white]Apagão[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2011/American%20Horror%20Story%20-%20S11E04%20-%20Black%20Out%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T11E05[COLOR yellow] -> [COLOR white]Má Sorte[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T11E05[COLOR yellow] -> [COLOR white]Má Sorte[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2011/American%20Horror%20Story%20-%20S11E05%20-%20Bad%20Fortune%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T11E06[COLOR yellow] -> [COLOR white]O Corpo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T11E06[COLOR yellow] -> [COLOR white]O Corpo[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2011/American%20Horror%20Story%20-%20S11E06%20-%20The%20Body%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T11E07[COLOR yellow] -> [COLOR white]A Sentinela[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T11E07[COLOR yellow] -> [COLOR white]A Sentinela[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2011/American%20Horror%20Story%20-%20S11E07%20-%20The%20Sentinel%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T11E08[COLOR yellow] -> [COLOR white]Ilha do Fogo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T11E08[COLOR yellow] -> [COLOR white]Ilha do Fogo[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2011/American%20Horror%20Story%20-%20S11E08%20-%20Fire%20Island%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T11E09[COLOR yellow] -> [COLOR white]Réquiem 1981/1987 (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T11E09[COLOR yellow] -> [COLOR white]Réquiem 1981/1987 (Parte 1)[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2011/American%20Horror%20Story%20-%20S11E09%20-%20Requiem%201981+1987%20(1)%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS5-T11E10[COLOR yellow] -> [COLOR white]Réquiem 1981/1987 (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T11E10[COLOR yellow] -> [COLOR white]Réquiem 1981/1987 (Parte 2)[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/5:/S%C3%A9ries/S%C3%A9ries%20WEB-DL/American%20Horror%20Story%20(2011)/Season%2011/American%20Horror%20Story%20-%20S11E10%20-%20%20WEBDL-1080p.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/DwyygzKCZPlVTbWSpAHoua5T66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 item>	
@@ -714,16 +1383,19 @@ item>
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/2eAl7mNBzsKbq6kTUCLmgczAMkK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 item>
-<title>[COLOR orange][B]TEMP 12 (2023) - 00 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 12 (2023) - 00 EPs - FHD DUAL+LEG[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/qNP4EnV02Y6pp9H4o0TvDAPOv3s.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/12.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -732,28 +1404,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
