@@ -38,7 +38,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/MLgTDg3/ESP-RES-EVIL-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de séries: 
 [B]Resident Evil
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
@@ -51,13 +51,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Resident Evil (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]Resident Evil (Desenho)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D11C-DSH-Resident.Evil-ALL</externallink>
 <thumbnail>https://i.ibb.co/RpvPpt4D/ESP-RES-EVIL-DSH.png</thumbnail>
 <fanart>https://i.ibb.co/MLgTDg3/ESP-RES-EVIL-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de desenhos: 
 [B]Resident Evil
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
@@ -209,4 +209,3 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
